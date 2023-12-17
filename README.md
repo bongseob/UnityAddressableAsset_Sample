@@ -1,15 +1,12 @@
 ## :pencil: About
-Sample code for **Unity Addressable Asset System**.  
-Check out [this guide](https://gist.github.com/MeowKim/79796c1468872de6bf4b50f0bfb0ed41).  
-
+https://github.com/MeowKim 에서 가져온 샘플입니다.
+UAAL 과 어드레서블을 함께 사용하기 위해 가져온 샘플
 
 
 ## :pushpin: Environments
-- Unity `2019.4.3f1`
+- Unity `2023.3.1f1`
 - Addressable `1.8.4`
 
 
 
 ## :unlock: License
-Copyright &copy;2020 [MeowKim](https://github.com/MeowKim)  
-Distributed under the [MIT](https://github.com/MeowKim/UnityAddressableAsset_Sample/blob/master/LICENSE) License.  
